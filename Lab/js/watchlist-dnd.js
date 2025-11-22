@@ -1,0 +1,1 @@
+/* This file is deprecated and superseded by Lab/js/watchlist-page.js using SortableJS */
